@@ -1,0 +1,6 @@
+name: Rule
+version: ${project.version}
+main: com.gamil.zeton1942.rule.Rule
+api-version: 1.16
+commands:
+  srule:
